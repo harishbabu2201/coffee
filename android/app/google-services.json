@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288758214844",
+    "project_id": "coffee-shop-dcade",
+    "storage_bucket": "coffee-shop-dcade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288758214844:android:fbb0c1bdb4823a646ca0b9",
+        "android_client_info": {
+          "package_name": "com.coff.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEDsCSkkz6CqN6IJsJMLHDOTwENMVI7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
